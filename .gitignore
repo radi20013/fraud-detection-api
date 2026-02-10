@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Large datasets 
+X_train_normal.csv
+X_test.csv
+y_test.csv
+iso_scores.csv
+ae_scores.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+Data/creditcard_dataset.csv
+Data/*.csv
